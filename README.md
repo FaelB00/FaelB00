@@ -8,6 +8,6 @@
 
  ### 📚 Studying everyday: 
   <img  align="left" title="C" alt="C" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img  align="center" title="Python" alt="Py" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img  align="left" title="Python" alt="Py" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img  align="left" title="Java" alt="Java" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img  align="center" title="Java" alt="Java" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img  align="left" title="Java" alt="Java" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">

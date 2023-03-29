@@ -6,9 +6,6 @@
 - 🤔 I’m looking for help with finding a job
 - 📫 How to reach me: fael.bernardes00@gmail.com
 
-<br />
- <br />
-<kbd align="center">
-<kbd>Studying:</kbd>
- <br />
- <br />
+  <img align="center" title="C" alt="C" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599232-fd849fe2-efbd-4c97-837f-7210da1bfd4d.svg">
+  <img align="center" title="Python" alt="Py" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599527-5685a1e2-d774-43b1-9151-ddc414f0d9f1.svg">
+ <img align="center" title="Java" alt="Java" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/167925144-20057181-1f35-4620-a466-2ea4864de977.svg">

@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
  ### Hi, I am Rafael Bernardes 
  
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/106562605/228648713-f0757f71-c1ce-4541-af9e-43e2f36d5ff2.mp4" width="500" height="320" />
-
+ <img align="right" alt="GIF" src="![AdorableAridGnat](https://user-images.githubusercontent.com/106562605/228649196-a7f26709-cb97-4e68-a327-25ce19c94d5a.gif)" width="500" height="320" />
 
 
 

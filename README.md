@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
  <h1>Hi, I'm Rafa's!</h1>
  
+ <img align="right" alt="GIF" src="[https://gfycat.com/adorablearidgnat.gif](https://gfycat.com/adorablearidgnat.gif)" width="500" height="320" />
+
 

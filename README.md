@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FaelB00/FaelB00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1>Hi, I'm Rafa's!</h1>
+ ### Hi, I am Rafael Bernardes 
  
- <img align="right" alt="GIF" src="[https://gfycat.com/adorablearidgnat.gif](https://gfycat.com/adorablearidgnat.gif)" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/106562605/228648713-f0757f71-c1ce-4541-af9e-43e2f36d5ff2.mp4" width="500" height="320" />
+
+
+
+
 
 

@@ -29,5 +29,5 @@
 <div>
  <a href="https://github.com/FaelB00">
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelB00&layout=compact&langs_count=7&theme=github_dark"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FaelB00&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelB00&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
